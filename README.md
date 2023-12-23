@@ -32,4 +32,13 @@ This project utilizes Selenium on Google Colab to crawl the Amazon website, extr
 In order to work with elasticsearch you have to run elastic search and use the API key and Cloud ID inorder to work with elasticsearch in colab.
 
 ## usage
-in order to work with the Elastic_Search, first download the json file created in Amazon_Crawling and upload it into the Elastic_Search.
+in order to work with the `Elastic_Search`, first download the json file created in `Amazon_Crawling` and upload it into the `Elastic_Search`.
+
+## Contact Us
+We're excited to hear from you! If you have any questions, suggestions, or need assistance, don't hesitate to reach out.
+Feel free to contact us via email at:
+- neg.jaafari@gmail.com
+- noorbakhsha1@gmail.com
+- Mehrnaz271380@gmail.com
+
+We're here to help and would love to hear about your experience using this project.
