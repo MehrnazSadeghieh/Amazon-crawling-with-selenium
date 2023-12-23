@@ -9,7 +9,7 @@ This project utilizes Selenium on Google Colab to crawl the Amazon website, extr
 - URL of the product image
 - Links to 2 unique similar items
 
-##Process
+## Process
 
 1- Crawling:
 - Using Selenium, the project navigates Amazon's website to extract the specified features from various products.
